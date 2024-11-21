@@ -1,0 +1,31 @@
+
+.Section_one img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+.left{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.left h2{
+    margin: 0px;
+}
+.Section_one{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+.Section_one p{
+    margin: 0px;
+}
+.right .Follow{
+    background-color: rgb(86, 119, 240);
+    padding: 10px 30px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

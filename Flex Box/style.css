@@ -1,0 +1,40 @@
+
+
+.main_content{
+    text-align: center;
+    display: grid;
+    grid-template-columns: 200px auto;
+    /* grid-template-rows: 300px  200px; */
+}
+.content_one{
+    background-color: aqua;
+    width: 100%;
+}
+
+.content_two{
+    background-color: rgb(0, 255, 64);
+    width: 100%;
+}
+
+.content_Three{
+    background-color: rgb(255, 153, 0);
+    width: 100%;
+}
+
+
+.content_four{
+    background-color: rgb(115, 0, 255);
+    width: 100%;
+}
+
+
+.content_five{
+    background-color: rgb(255, 0, 119);
+    width: 100%;
+}
+
+
+.content_six{
+    background-color: rgb(221, 255, 0);
+    width: 100%;
+}
